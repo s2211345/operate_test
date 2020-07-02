@@ -1,10 +1,12 @@
 package com.test.controller;
 
 /**
- *  Test  修改一次
+ *  Test  1123
  */
 public class Test{
     private String name;
     private Integer age;
     private String sex;
+    private String teee;
+
 }
