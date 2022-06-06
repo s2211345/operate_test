@@ -8,4 +8,8 @@ public class Test{
     private Integer age;
     private String sex;
     private String ttt2;
+	
+		
+	public List list;
+	public String ss;
 }
