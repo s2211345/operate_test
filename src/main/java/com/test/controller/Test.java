@@ -8,4 +8,6 @@ public class Test{
     private Integer age;
     private String sex;
     private String ttt2;
+	
+	private String str;
 }
